@@ -17,7 +17,6 @@ In this task, you are going to build a code to bake a cake to always be the righ
 
 ### Notes | ملاحظات
 > The way you will build up this code is how you can build up any program, starting with the big picture and adding detail. This is called "top-down development".
-> The instructions are not as detailed for this practice, and you can refer to the finished code if you get stuck.
 
 
 
