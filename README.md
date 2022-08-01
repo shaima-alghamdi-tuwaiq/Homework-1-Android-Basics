@@ -1,7 +1,7 @@
 # Homework-1-Android-Basics
 
 ### Description | وصف الواجب
-In this task, you are going to build a code to bake a cake code to always be the right size with the right number of candles.
+In this task, you are going to build a code to bake a cake to always be the right number of layers, size, and with the right number of candles.
 
 
 ### Instructions | التعليمات
