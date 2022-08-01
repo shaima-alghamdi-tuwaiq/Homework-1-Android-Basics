@@ -7,3 +7,4 @@ The way you will build up this code is how you can build up any program, startin
 The instructions are not as detailed for this practice, and you can refer to the finished code if you get stuck.
 Here is a picture of the cake you will be baking:
 
+[Output](https://github.com/shaima-alghamdi-tuwaiq/Homework-1-Android-Basics/blob/a745ff19ff5912d2533905b53421b6a3f0cbd85d/output.png)
